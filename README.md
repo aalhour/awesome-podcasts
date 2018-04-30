@@ -139,6 +139,16 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Data science, machine learning, artificial intelligence
   * **Frequency**: Weekly
+  
+* [Learning Machines 101](http://www.learningmachines101.com/)
+
+  * **Description**: In this podcast series, we examine such questions as:
+                      How do these devices work?
+                      Where do they come from?
+                      How can we make them even smarter?
+                      And how can we make them even more human-like?
+                  Learning Machines 101 is committed to providing an accessible introduction to the complex and fascinating world of                       Artificial Intelligence which now has an impact on everyday life throughout the world!
+  * **Frequency**: Once a month
 
 * [ocdlevel Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
@@ -178,6 +188,7 @@ List of podcasts which are helpful for software engineers/programmers.
   
   * **Description**: Stories from the world of machine learning and artificial intelligence. Discussion on the latest developments in research, technology, business, and exploring interesting projects from across the web, including machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, big data and more.
   * **Frequency** : Twice a week
+  
 
 ## Devops
 
@@ -616,10 +627,41 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## PHP
 
+
+* [php[podcast]](https://www.phparch.com/podcast/feed/episodes/)
+
+  * **Description**: The site for PHP professionals, Magazine, Training, Books, Conferences.
+  * **Frequency** : Once or twice every month
+
+
 * [PHPUgly](https://phpugly.simplecast.fm/)
 
   * **Description**: The podcast your mother warned you about. Ramblings of a few overworked PHP Developers.
   * **Frequency** : Once every week
+
+
+* [Sound of Symfony](http://feed.soundofsymfony.com/rss)
+
+  * **Description**: The unofficial Symfony podcast.
+  * **Frequency** : Various
+
+
+* [That Podcast](https://thatpodcast.io/itunes.rss)
+
+  * **Description**: Beau and Dave talking about life as dads, programmers, and entrepreneurs.
+  * **Frequency** : Once every week.
+
+
+* [The PHP Roundtable](http://feeds.feedburner.com/PhpRoundtable)
+
+  * **Description**: The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about.
+  * **Frequency** : About once every month.
+
+
+* [Voices of the ElePHPant](https://voicesoftheelephpant.com/feed/podcast/)
+
+  * **Description**: Interviews with the people that are making the PHP community special.
+  * **Frequency** : Once every month
 
 ## Python
 
