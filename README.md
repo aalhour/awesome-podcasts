@@ -438,6 +438,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly question and answer podcast where software developer hosts answer questions about all of the non-technical things that go along with being a software developer.
   * **Frequency**: Once every week
 
+* [The 6 Figure Developer Podcast](https://6figuredev.com/)
+
+  * **Description**: The 6 Figure Developer Podcast is a show dedicated to helping developers to grow their career. Topics include Test Driven Development, Clean Code, Professionalism, Entrepreneurship, as well as the latest and greatest programming languages and concepts.
+  * **Frequency**: Weekly  
+
 * [The Accidental Engineer](https://theaccidentalengineer.com/)
 
   * **Description**: Anything and everything related to software
@@ -745,6 +750,11 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Application Security Weekly](https://securityweekly.com/category/application-security-weekly/)
   * **Description**: Security podcast targeting developers. Excellent insight into what we can do as developers to secure our software.
   * **Frequency** :  Weekly
+  
+* [Breach](https://www.carbonite.com/podcasts/breach/) 
+  * **Description**: A podcast exploring data breaches and cybersecurity by Carbonite.
+  * **Frequency** : Every 2/3 Months
+
 
 * [The Cyber Wire](https://www.thecyberwire.com/)
 
