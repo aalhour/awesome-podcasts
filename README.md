@@ -10,6 +10,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Agile](#agile)
 * [Android](#android)
 * [C++](#c)
+* [Career](#career)
 * [Clojure](#clojure)
 * [Community/Inspiration](#communityinspiration)
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
@@ -56,6 +57,8 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Join Frank & James for a weekly discussion on the world of technology and development including C#, F#, .NET, web, mobile, and more.
   * **Frequency**: Weekly
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
+  
+More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Agile
 
@@ -77,7 +80,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency**: Once a fortnight
   * **Runtime**: 40 - 60 mins, regularly ~40 mins
   
-  * [Scrum Master Toolbox](https://scrum-master-toolbox.org/)
+* [Scrum Master Toolbox](https://scrum-master-toolbox.org/)
 
   * **Description**:  A daily podcast for Scrum Masters and Agile Coaches
   * **Frequency**: Daily
@@ -116,6 +119,14 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: All about C++ and many great interviews with prominent library and tool authors.
   * **Frequency**: Once every week
   * **Runtime**: 40 - 60 mins, regularly ~55 mins
+
+## Career
+
+* [Using Reflection](http://www.usingreflection.com/)
+
+  * **Description**: Engineers reflect on what they've learned about being effective professionals, working in teams and themselves.
+  * **Frequency**: About twice a month
+  * **Runtime**: 35-50 minutes
 
 ## Clojure
 
@@ -748,6 +759,12 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: We cover the latest Vue news and tutorials in about 5 minutes. Our goal is to give you the information you need to stay on top of your game as a Vue developer.
   * **Frequency** : Once every week
   * **Runtime**: 4 - 10 mins, regularly ~5 mins
+
+* [Views on Vue](https://devchat.tv/views-on-vue/)
+
+  * **Description**: Views on Vue
+  * **Frequency** : Once every week
+  * **Runtime**: 25 - 85 mins, regularly ~60 mins
 
 ## Kotlin
 
